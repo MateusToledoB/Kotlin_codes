@@ -1,0 +1,1 @@
+Olá, esse codigo utiliza a clausula when do Kotlin visando otimizar as comparações sem encadear vários If´s
